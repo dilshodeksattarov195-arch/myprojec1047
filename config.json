@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadercync",
+        "uuid": 937065,
+        "checksum": "urkvci"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
